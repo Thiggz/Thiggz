@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thiggz
+- 👋 Hi, I’m Karthik!
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning about applying deep learning in 2D imaging and 3D point clouds
 - 💞️ I’d love to discuss deep learning projects and collaborations
